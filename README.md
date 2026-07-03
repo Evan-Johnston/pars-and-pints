@@ -55,65 +55,7 @@ Email integrations
 SMS/texting workflows
 Admin dashboard tools
 Event management
-Booking enhancements
-
-⸻
-
-📁 Project Structure
-
-parsandpints.com/
-│
-├── index.html
-├── README.md
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── graphics/
-│
-├── css/
-│   └── styles.css
-│
-└── js/
-    └── script.js
-
-⸻
-
-🚀 Local Development
-
-Clone the repository:
-
-git clone https://github.com/your-username/parsandpints.com.git
-
-Move into the project folder:
-
-cd parsandpints.com
-
-Open the site locally by launching index.html in your browser.
-
-For the best workflow, use the Live Server extension in VS Code.
-
-⸻
-
-🌐 Deployment
-
-This site is intended to be deployed through cPanel hosting.
-
-Typical update flow:
-
-Make changes locally
-↓
-Test in browser
-↓
-Push changes to GitHub
-↓
-Upload or sync files to hosting
-↓
-Confirm live changes at parsandpints.com
-
-Live website:
-
-https://parsandpints.com
+Booking Enhancements
 
 ⸻
 
@@ -121,7 +63,6 @@ https://parsandpints.com
 
 Planned and potential improvements:
 
-* Admin dashboard for internal updates
 * Event and tournament management
 * Promo banner system
 * Contact form improvements
